@@ -1,0 +1,2 @@
+cd Ejercicio4
+python load_csv.py t.csv
